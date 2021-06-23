@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home2/samorcom/http://news.samorcomediagroup.co.ke/
+    - export DEPLOYPATH=/home2/samorcom/news.samorcomediagroup.co.ke/
     
 	-bin/cp/ * $DEPLOYPATH
