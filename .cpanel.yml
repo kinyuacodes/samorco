@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home2/samorcom/http://news.samorcomediagroup.co.ke/
+    
+	
